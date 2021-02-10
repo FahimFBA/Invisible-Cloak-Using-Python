@@ -30,3 +30,11 @@ Well, after going through the simple algorithm I'm providing here, you would say
 - OpenCV
 - NumPy
 - Time
+
+<h2 align="center"> Necessary Softwares </h2>
+
+
+1. [Python 3.9](https://www.python.org/downloads/)
+2. [Anaconda](https://www.anaconda.com/)
+3. [Visual Studio Code](https://code.visualstudio.com/) or [Visual Studio Code Insider](https://code.visualstudio.com/insiders/) or any other IDE / Text Editor
+
