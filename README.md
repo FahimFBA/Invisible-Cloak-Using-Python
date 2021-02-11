@@ -9,7 +9,10 @@ A cloak of invisibility is a fictional theme. In folklore, mythology and fairy t
 <br>
 
 
-* You have seen invisible cloak type of cloth in ["Harry Potter"](https://en.wikipedia.org/wiki/Harry_Potter) movies a lot! <br>
+* You have seen invisible cloak type of cloth in ["Harry Potter"](https://en.wikipedia.org/wiki/Harry_Potter) movies a lot! 
+<br>
+
+
 ![Sample](img/sample.gif)
 <br>
  Remember that now?
