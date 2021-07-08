@@ -46,7 +46,7 @@ Well, after going through the simple algorithm I'm providing here, you would say
 
 <hr>
 
-If you want to see the live demo, then you may watch this [video.](https://www.youtube.com/watch?v=jP45XZyMdNc&t=22s)
+If you want to see the live demo, then you may watch this [video.](https://www.youtube.com/watch?v=otu_UZoPvAQ&list=PLutHME8vSEnEoS_-5Cl8RMsH0aWnWbsci&index=11)
 <br>
 
 You may visit the page of this repo from [here.](https://fahimfba.github.io/Invisible-Cloak-Using-Python/)
